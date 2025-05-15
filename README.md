@@ -45,7 +45,7 @@ d += height_km;
 To re-generate the WMM_COF.c file from a WMM.COF model file, run:
 
 ```sh
-swift run WWMConverterFloat WMM.COF
+swift run WWMConverter WMM.COF
 ```
 
 ---
