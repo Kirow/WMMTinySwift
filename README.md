@@ -52,4 +52,4 @@ swift run WWMConverter WMM.COF
 
 ## License
 
-See [LICENSE](LICENSE) for details.
+See [MIT License](LICENSE) for details.
